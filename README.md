@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Obed200
-- 👀 I’m interested in Programming
+- 👀 I’m facinating in Programming
 - 🌱 I’m currently learning Information Technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Friendly
+- 📫 Reach me to my profile Obed200
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I’m looking for collaboration via my github repository
 
 <!---
 Obed200/Obed200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
