@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @Obed200
-- 👀 I’m facinating in Programming
-- 🌱 I’m currently learning Information Technology
-- 💞️ Friendly
-- 📫 Reach me to my profile Obed200
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I’m looking for collaboration via my github repository
-
-<!---
-Obed200/Obed200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+University of Rwanda student
+With more than three years of experience, I am a full-stack software engineer with a focus on backend programming with Pythin, Java, javascript, and cutting-edge AI tools.  Using technologies like Django, JavaEE, Node.js, Spring Boot, restful APIs, and databases like SQL and MongoDB, I create dependable and scalable solutions.  In order to increase productivity and produce clever solutions, I have also integrated AI tools like ChatGPT, Copilot, and Cursor into development processes.  I'm committed to maximizing backend performance, resolving challenging issues, and producing significant outcomes for all projects.
+In addition, I have experience in machine learning, UI/UX design, and software engineering.
