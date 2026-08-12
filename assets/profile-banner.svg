@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">TWIRINGIYIMANA Obed — Full-Stack Software Developer</title>
+  <desc id="desc">Professional GitHub profile banner with a dark technology aesthetic.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B17"/>
+      <stop offset="55%" stop-color="#111936"/>
+      <stop offset="100%" stop-color="#24124A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5EE7F2"/>
+      <stop offset="100%" stop-color="#9B6CFF"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="10" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <circle cx="1050" cy="70" r="115" fill="#6C63FF" opacity="0.12" filter="url(#glow)"/>
+  <circle cx="1120" cy="280" r="150" fill="#5EE7F2" opacity="0.08" filter="url(#glow)"/>
+  <path d="M0 292 C220 230 390 335 610 270 S980 220 1200 275" fill="none" stroke="url(#accent)" stroke-width="2" opacity="0.35"/>
+  <g opacity="0.22" stroke="#8EA2FF" stroke-width="1">
+    <path d="M790 0v360M890 0v360M990 0v360M1090 0v360"/>
+    <path d="M720 80h480M720 160h480M720 240h480M720 320h480"/>
+  </g>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="72" y="92" fill="#5EE7F2" font-size="18" font-weight="700" letter-spacing="4">OBED200 · GITHUB PROFILE</text>
+    <text x="72" y="158" fill="#FFFFFF" font-size="48" font-weight="800">TWIRINGIYIMANA Obed</text>
+    <text x="74" y="198" fill="#D9E1FF" font-size="22" font-weight="600">Full-Stack Software Developer · IT Student · Problem Solver</text>
+    <rect x="74" y="226" width="520" height="2" fill="url(#accent)"/>
+    <text x="74" y="265" fill="#AEB9DB" font-size="17">Python · Django · JavaScript · React · Next.js · C# · Java</text>
+    <text x="74" y="294" fill="#AEB9DB" font-size="17">Backend Systems · Databases · APIs · AI-assisted Development</text>
+    <text x="74" y="326" fill="#FFFFFF" font-size="15" font-weight="600">📍 Kigali, Rwanda</text>
+  </g>
+  <g transform="translate(810 78)" fill="none" stroke="url(#accent)" stroke-width="2" opacity="0.9">
+    <rect x="0" y="0" width="270" height="200" rx="18" opacity="0.35"/>
+    <circle cx="135" cy="100" r="62" opacity="0.45"/>
+    <path d="M92 100h86M135 57v86" opacity="0.45"/>
+    <path d="M100 136l35-35 25 22 35-48"/>
+    <circle cx="100" cy="136" r="5" fill="#5EE7F2" stroke="none"/>
+    <circle cx="135" cy="101" r="5" fill="#9B6CFF" stroke="none"/>
+    <circle cx="160" cy="123" r="5" fill="#5EE7F2" stroke="none"/>
+    <circle cx="195" cy="75" r="5" fill="#9B6CFF" stroke="none"/>
+  </g>
+</svg>
